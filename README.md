@@ -1,6 +1,6 @@
 # MERN Stack JWT Authentication App
 
-## This is a simple MERN (MongoDB, Express.js, React, Node.js) stack application with JWT (JSON Web Token) authentication. It allows users to sign up, log in, and access a protected homepage that welcomes them by their name.
+### This is a simple MERN (MongoDB, Express.js, React, Node.js) stack application with JWT (JSON Web Token) authentication. It allows users to sign up, log in, and access a protected homepage that welcomes them by their name.
 
 ### Features
 
